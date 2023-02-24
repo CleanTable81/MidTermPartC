@@ -12,6 +12,10 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ * 
+ * Hey there, Teagan C. here from 2023. I am adding comments within GitHub, to be fetched by the local repository and then merged!
+ * It's cool stuff!
+ * @author gamer
  */
 public class UserProfile 
 {
